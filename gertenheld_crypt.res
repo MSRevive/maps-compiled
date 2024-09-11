@@ -1,9 +1,0 @@
-models/gibs/fleshgibs.mdl
-models/gibs/gib_b_bone.mdl
-models/gibs/gib_b_gib.mdl
-models/gibs/gib_legbone.mdl
-models/gibs/gib_lung.mdl
-models/gibs/gib_skull.mdl
-music/SSSkeletonsRemix.mp3
-sounds/body/bodysplat.wav
-maps/Gertenheld_Crypt_detail.txt
