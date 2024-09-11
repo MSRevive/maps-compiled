@@ -1,0 +1,14 @@
+maps/hemlock_detail.txt
+models/cal/nm_dryad.mdl
+models/cal/w_nmpickaxe.mdl
+models/cal/xen_tree4_3.mdl
+music/darkness.mp3
+sound/cal/bell.wav
+sound/cal/bush.wav
+sound/cal/crickets.wav
+sound/cal/evil_laugh.wav
+sound/cal/high_wind.wav
+sound/cal/howldistant.wav
+sound/cal/js1.wav
+sound/cal/scarydistant2.wav
+sound/cal/wood_creak1.wav
