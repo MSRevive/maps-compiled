@@ -117,5 +117,5 @@ cxwoodm detail/tl_woodredd 1.0 1.0
 Chest_Front detail/tl_woodredd 1.0 1.0
 Chest_Side detail/tl_woodredd 1.0 1.0
 Chest_Top detail/tl_woodredd 1.0 1.0
-CLOUD_MOSSY detail/tl_grass 3.0 3.0
-CLOUD_MOSSDIRT detail/tl_grass 3.0 3.0
+CLOUD_MOSSY detail/tl_stone 3.0 3.0
+CLOUD_MOSSDIRT detail/tl_stone 3.0 3.0
